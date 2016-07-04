@@ -1,0 +1,26 @@
+{
+  "PermissionsControllerRole": "Nadeko",
+  "Verbose": true,
+  "Id": 197127017244786689,
+  "Permissions": {
+    "Name": "Overworld",
+    "Modules": {
+      "NSFW": false
+    },
+    "Commands": {},
+    "FilterInvites": false,
+    "FilterWords": false
+  },
+  "Words": [],
+  "UserPermissions": {},
+  "ChannelPermissions": {},
+  "RolePermissions": {
+    "197136666568163328": {
+      "Name": "Kings",
+      "Modules": {},
+      "Commands": {},
+      "FilterInvites": false,
+      "FilterWords": false
+    }
+  }
+}

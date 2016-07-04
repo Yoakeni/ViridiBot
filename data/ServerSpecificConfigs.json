@@ -1,0 +1,17 @@
+{
+  "197127017244786689": {
+    "VoicePlusTextEnabled": false,
+    "SendPrivateMessageOnMention": false,
+    "LogChannel": null,
+    "LogPresenceChannel": null,
+    "VoiceChannelLog": {},
+    "ListOfSelfAssignableRoles": [
+      197136666568163328
+    ],
+    "AutoAssignedRole": 0,
+    "GenerateCurrencyChannels": [],
+    "AutoDeleteMessagesOnCommand": false,
+    "ObservingStreams": [],
+    "DefaultMusicVolume": 1.0
+  }
+}
